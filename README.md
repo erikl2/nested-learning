@@ -34,7 +34,7 @@ See [IMPLEMENTATION_STATUS.md](IMPLEMENTATION_STATUS.md) for detailed component 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nested-learning.git
+git clone https://github.com/erikl2/nested-learning.git
 cd nested-learning
 
 # Create virtual environment
