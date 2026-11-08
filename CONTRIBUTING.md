@@ -7,7 +7,7 @@ Thank you for your interest in contributing! This repo is a partial implementati
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/yourusername/nested-learning.git
+   git clone https://github.com/erikl2/nested-learning.git
    cd nested-learning
    ```
 

@@ -10,7 +10,7 @@ setup(
     description="Partial implementation of Nested Learning (NeurIPS 2025) - API structure with documented gaps",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/nested-learning",
+    url="https://github.com/erikl2/nested-learning",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     classifiers=[
